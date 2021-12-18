@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShaneTrenthamRectangleOverlap", "ShaneTrenthamRectangleOverlap\ShaneTrenthamRectangleOverlap.csproj", "{114DA817-3A48-421C-B87A-1349C25ACB2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleOverlappingTests", "RectangleOverlappingTests\RectangleOverlappingTests.csproj", "{166B3DB2-A6D1-41C5-B31E-0425F40D291C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114DA817-3A48-421C-B87A-1349C25ACB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114DA817-3A48-421C-B87A-1349C25ACB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114DA817-3A48-421C-B87A-1349C25ACB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114DA817-3A48-421C-B87A-1349C25ACB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166B3DB2-A6D1-41C5-B31E-0425F40D291C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166B3DB2-A6D1-41C5-B31E-0425F40D291C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166B3DB2-A6D1-41C5-B31E-0425F40D291C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166B3DB2-A6D1-41C5-B31E-0425F40D291C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59C56B13-0348-4E56-932F-47A9D5F09AF4}
+	EndGlobalSection
+EndGlobal

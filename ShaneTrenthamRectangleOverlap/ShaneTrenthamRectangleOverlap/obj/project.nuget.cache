@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6cBvPxGOCQ9vfddY/eiiiuR6Sx5NnYzQ2Xuv8v7F0AO+XCCE4jEs4EqWuicOJ4l1gIhaZtVkcOrZ+H6qafaDTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shane\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
