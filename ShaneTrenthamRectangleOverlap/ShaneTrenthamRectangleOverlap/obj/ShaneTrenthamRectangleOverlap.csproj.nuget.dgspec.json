@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {}
+    "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {
+    "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj",
+        "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj",
         "projectName": "ShaneTrenthamRectangleOverlap",
-        "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj",
+        "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj",
         "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\obj\\",
+        "outputPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

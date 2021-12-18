@@ -9,7 +9,7 @@ namespace ShaneTrenthamRectangleOverlap
         {
             Point2D r1_TopRight, r2_TopRight;
 
-            //Checks for 
+            //Checks for null rectangles
             if (R1 == null || R2 == null)
             {
                 throw new Exception("One or more of the provided rectangles are null");

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aF9Xy5uvwELEdAii6gdrXbRqlTCMBCnZx8Ena9RmfwN6CQhF2S+ir426rZsGws/SHnbuqsBkaZ7iOFwYdAct5Q==",
+  "dgSpecHash": "dajGTrRyeQ8IRfgxlfTB7Jvwdi1e40Hs37drEpabFo7jiu3OaFLxINsXlpGAIBPFkM7aNB1FS20pjUx0HH2s2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
+  "projectFilePath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shane\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\shane\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

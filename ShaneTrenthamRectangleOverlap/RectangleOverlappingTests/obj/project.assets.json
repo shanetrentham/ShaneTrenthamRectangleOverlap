@@ -5685,11 +5685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
+      "projectUniqueName": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
       "projectName": "RectangleOverlappingTests",
-      "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
+      "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\RectangleOverlappingTests.csproj",
       "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\obj\\",
+      "outputPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\RectangleOverlappingTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5709,8 +5709,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {
-              "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj"
+            "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj": {
+              "projectPath": "C:\\Users\\shane\\OneDrive\\Documents\\Personal_Files\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap\\ShaneTrenthamRectangleOverlap.csproj"
             }
           }
         }
